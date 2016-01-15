@@ -22,7 +22,7 @@
     ],
     "pluginsConfig": {
     	"duoshuo": {
-            "short_name": "embeddedsystemdevelopment",
+            "short_name": "buildyourfirstapp",
             "theme": "default"
         }
   	},
