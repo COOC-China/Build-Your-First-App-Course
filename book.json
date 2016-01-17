@@ -1,15 +1,8 @@
 {
     "title": "Building Your First App",
     "description": "Building Your First App",
+    "gitbook": ">=2.0.0",
     "links": {
-        "sharing": {
-            "weibo": true,
-            "twitter":false,
-            "facebook":false,
-            "google":false,
-            "instapaper":false,
-            "all":["weibo"]
-        },
         "sidebar": {
             "COOC China": "https://cooc-china.github.io/"
         }
@@ -18,16 +11,26 @@
 	"collapsible-menu",
         "livereload",
         "duoshuo",
-		"exercises"
+		"exercises",
+        "mcqx",
+        "fbqx"
     ],
     "pluginsConfig": {
     	"duoshuo": {
             "short_name": "buildyourfirstapp",
             "theme": "default"
+        },
+        "sharing": {
+            "facebook":false,
+            "google":false,
+            "twitter":false,
+            "weibo": true,
+            "instapaper":false,
+            "all":["weibo"]
         }
   	},
     "styles": {
         "website": "styles/website.css"
     },
-    "language":"en"
+    "language":"zh-hans"
 }

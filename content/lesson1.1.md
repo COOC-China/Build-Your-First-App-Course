@@ -18,6 +18,10 @@
 
 3. Under **Select the form factors your app will run on**, check the box for **Phone and Tablet**.
 
+# 相关视频
+
+<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=q0180meao3b&tiny=0&auto=0" allowfullscreen></iframe>
+
 4. 	For **Minimum SDK**, select **API 8: Android 2.2 (Froyo)**.
 	
 	>The Minimum Required SDK is the earliest version of Android that your app supports, indicated using the API level. To support as many devices as possible, you should set this to the lowest version available that allows your app to provide its core feature set. If any feature of your app is possible only on newer versions of Android and it's not critical to the app's core feature set, you can enable the feature only when running on the versions that support it (as discussed in Supporting Different Platform Versions).
@@ -31,3 +35,15 @@
 8. Click the **Finish** button to create the project.
 
 Your Android project is now a basic "Hello World" app that contains some default files. 
+
+# 相关视频
+
+<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=y01804ziw75&tiny=0&auto=0" allowfullscreen></iframe>
+
+{% mcq ans="o1" %}
+{%title%} This is a question?
+{% o1 %} First option
+{% o2 %} Second option
+{% o3 %} Third option
+{% o4 %} Fourth option
+{% endmcq %}
