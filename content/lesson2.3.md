@@ -1,10 +1,3 @@
-# 课后练习
+# Creating an Android Project 讲义
 
-{%mcq ans="o2" %}
-{%title%}要使用真机调试，以下必须做的是？
-{%o1%}打开AVD
-{%o2%}打开手机的“USB 调试模式“
-{%o3%}不知道
-{%hint%}参考2.1第2点
-{%message%}恭喜你回答正确，可以进行下一章节的学习了
-{%endmcq%}
+<script async class="speakerdeck-embed" data-id="74f29f218d704f2397af05429d15f1df" data-ratio="0.772830188679245" src="https://speakerdeck.com/assets/embed.js"></script>
