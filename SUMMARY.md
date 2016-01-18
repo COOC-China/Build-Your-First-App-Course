@@ -2,9 +2,11 @@
 
 * [Creating an Android Project](/content/lesson1.md)
 	* [Create a Project with Android Studio](/content/lesson1.1.md)
+	* [课后练习](/content/lesson1.2.md)
 * [Running Your App](/content/lesson2.md)
 	* [Run on a Real Device](/content/lesson2.1.md)
 	* [Run on the Emulator](/content/lesson2.2.md)
+	* [课后练习](/content/lesson2.3.md)
 * [Building a Simple User Interface](/content/lesson3.md)
 	* [Create a Linear Layout](/content/lesson3.1.md)
 	* [Add a Text Field](/content/lesson3.2.md)

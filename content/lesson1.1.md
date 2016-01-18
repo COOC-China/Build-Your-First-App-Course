@@ -20,7 +20,7 @@
 
 # 相关视频
 
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=q0180meao3b&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=q0180meao3b&tiny=0&auto=0" allowfullscreen></iframe>
 
 4. 	For **Minimum SDK**, select **API 8: Android 2.2 (Froyo)**.
 	
@@ -38,12 +38,4 @@ Your Android project is now a basic "Hello World" app that contains some default
 
 # 相关视频
 
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=y01804ziw75&tiny=0&auto=0" allowfullscreen></iframe>
-
-{% mcq ans="o1" %}
-{%title%} This is a question?
-{% o1 %} First option
-{% o2 %} Second option
-{% o3 %} Third option
-{% o4 %} Fourth option
-{% endmcq %}
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y01804ziw75&tiny=0&auto=0" allowfullscreen></iframe>

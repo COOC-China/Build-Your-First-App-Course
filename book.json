@@ -8,10 +8,9 @@
         }
     },
     "plugins": [
-	"collapsible-menu",
+	   "collapsible-menu",
         "livereload",
         "duoshuo",
-		"exercises",
         "mcqx",
         "fbqx"
     ],
