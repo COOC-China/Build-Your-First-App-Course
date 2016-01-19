@@ -11,8 +11,8 @@
 	   "collapsible-menu",
         "livereload",
         "duoshuo",
-        "mcqx",
-        "fbqx"
+        "fbqx",
+        "mcqx"
     ],
     "pluginsConfig": {
     	"duoshuo": {
@@ -25,7 +25,8 @@
             "twitter":false,
             "weibo": true,
             "instapaper":false,
-            "all":["weibo"]
+            "qzone":true,
+            "all":["weibo","qzone"]
         }
   	},
     "styles": {
