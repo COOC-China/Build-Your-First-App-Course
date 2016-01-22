@@ -9,21 +9,3 @@
 {%hint%}参考1.1第2点
 {%message%}恭喜你回答正确，可以开始下一章节的学习了
 {%endmcq%}
-
-```
-{% exercise %}
-Define a variable `x` equal to 10.
-{% initial %}
-var x =
-{% solution %}
-var x = 10;
-{% validation %}
-assert(x == 10);
-{% context %}
-// This is context code available everywhere
-// The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
-}
-{% endexercise %}
-```
